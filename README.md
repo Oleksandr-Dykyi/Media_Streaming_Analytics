@@ -28,4 +28,4 @@ Additionally, I created a Customer Journey Map (CJM) visualizing the user's sess
 [Amplitude CJM Link](https://app.amplitude.com/analytics/demo/chart/7kpjlvxl?source=copy+url)
 
 #### Skills:
-Amplitude, Data Visualization, Customer Journey Map (CJM)
+Data Analysis · Amplitude Analytics · Data Visualization · Cohort Analysis
